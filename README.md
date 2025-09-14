@@ -19,8 +19,11 @@ A comprehensive password manager that consolidates secure credential storage, ad
 ## Technologies and Languages Used
 
 **Languages**: Java, Shell Script
+
 **Build System**: Maven
+
 **Encryption**: Java Cryptography Architecture (JCA), AES-256-GCM
+
 **Testing**: JUnit 5
 
 ## How to Run the Project
@@ -56,7 +59,6 @@ Required packages:
 ### First Time Setup
 1. **Enter Master Password**: When you first run it, create a strong master password
    - This password encrypts ALL your stored credentials
-   - Remember it well - there's no recovery option!
 
 ### Main Menu Options
 
