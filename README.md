@@ -4,7 +4,7 @@ A comprehensive password manager that consolidates secure credential storage, ad
 
 ## Features
 
-**Secure Credential Storage**: Store unlimited passwords with military-grade AES-256-GCM encryption, PBKDF2 key derivation with 100,000 iterations, and automatic timestamped backups
+**Secure Credential Storage**: Store unlimited passwords with encryption and automatic backups
 
 **Advanced Password Generation**: Create strong passwords with customizable rules including length, character types, minimum requirements, and real-time strength evaluation
 
