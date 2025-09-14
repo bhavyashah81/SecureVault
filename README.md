@@ -82,10 +82,8 @@ Required packages:
 - Remove credentials you no longer need
 
 #### 6. Copy Password to Clipboard
-- **This is the killer feature!**
 - Enter website name
 - Password gets copied to clipboard
-- **Automatically clears after 30 seconds** for security
 
 #### 7. Generate New Password
 - Create strong passwords with custom rules:
