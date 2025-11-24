@@ -1,6 +1,6 @@
 # SecureVault
 
-A comprehensive password manager that consolidates secure credential storage, advanced password generation, and intuitive management features into a single, user-friendly CLI application for individuals and professionals.
+A password manager that consolidates secure credential storage, advanced password generation, and intuitive management features into a single, user-friendly CLI application for individuals and professionals.
 
 ## Features
 
@@ -123,4 +123,4 @@ Required packages:
 5. Password auto-clears from clipboard after 30s
 6. Save and exit when done
 
-The app is designed for security-conscious users who want strong, unique passwords for every account without the hassle of remembering them all!
+The app is designed for security-conscious users who want strong, unique passwords for every account.
